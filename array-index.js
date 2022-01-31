@@ -1,0 +1,1 @@
+var bookPages = ['hablu', 'bolod', 'chouddogosti', 'battary', 'paracitamol', 'gymnesium']
