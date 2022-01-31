@@ -25,3 +25,5 @@ if (danishPrice < myBudget) {
         console.log('danish khabo na! karon ami khaoyar age machi kheye felse ordhek');
     }
 }
+
+// check
