@@ -7,6 +7,7 @@ var userName = 'Sogir Uddin';
 
 // Boolean
 var isExpensive = true;
+console.log(6 <= 6);
 
 // Integer: 1 2 3 4 5 6 145
 // Float: 2.714 5.98745 3.14
